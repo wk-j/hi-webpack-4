@@ -4,11 +4,11 @@
 npm install --save-dev react react-dom @types/react @types/react-dom webpack@next webpack-cli
 ```
 
-- [x] js
-- [ ] jsx
-- [x] ts
-- [ ] tsx
-- [ ] `require("images/logo.png")
+- [x] .js
+- [ ] .jsx
+- [x] .ts
+- [ ] .tsx
+- [ ] `require("images/logo.png")`
 
 ## Start
 
