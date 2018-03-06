@@ -16,4 +16,5 @@ npm install --save-dev react react-dom @types/react @types/react-dom webpack@nex
 node ./node_modules/webpack/bin/webpack.js --mode development src/index.js
 node ./node_modules/webpack/bin/webpack.js --mode development src/index.ts
 node ./node_modules/webpack/bin/webpack.js --mode development src/index.tsx
+node ./node_modules/webpack/bin/webpack.js --mode development src/script.js
 ```
